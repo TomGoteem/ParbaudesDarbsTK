@@ -1,0 +1,5 @@
+J1. - No sakuma parbauditu via skripts lasa pareizo failu un vai dati taja ir tadi, kadus es domaju.
+pec tam apskatitu vai filtrs un nosacijums koda nav uzrakstits nepareizi, jo skripts var stradat bez kludam bet darit nepareizu darbu.
+
+J2. - Celonis ir tas, ka CSV datne ka atdalitajs ir komats, bet excel gaida semikolu ";", tapec visas kolonnas ir salipusas kopa.
+labojums ir atvert datni excel caur data -> from text/csv un izveleties pareizo atdalitaju.
